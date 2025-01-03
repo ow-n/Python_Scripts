@@ -1,0 +1,4 @@
+∀a ∈ A, ∃b ∈ B ∋: P(a, b) → ~R(a, b), and 
+∃a ∈ A ∋: ∀b ∈ B, P(a, b) → ~R(a, b).
+
+1 ∀b ∈ B, T(b) → ~S(b) premise ₂ ~T(b₂₃) conclusion ∴ ∃b ∈ B ∋: S(b)

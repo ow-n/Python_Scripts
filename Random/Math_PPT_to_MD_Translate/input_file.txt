@@ -1,0 +1,4 @@
+"a Î A, $b Î B ': P(a, b) ® ~R(a, b), and 
+$a Î A ': "b Î B, P(a, b) ® ~R(a, b).
+
+1 "b Î B, T(b) ® ~S(b) premise 2 ~T(b23) conclusion \ $b Î B ': S(b)
